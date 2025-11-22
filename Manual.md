@@ -80,4 +80,3 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - GitHub. (s.f.). Guía de uso colaborativo. GitHub Docs.
 - Trello. (s.f.). Cómo organizar equipos con tableros Kanban. Trello Help Center.
 - Universidad de Murcia. (2019). Guía para trabajos académicos universitarios. Servicio de Biblioteca.
-- Zotero. (s.f.). Manual práctico para gestión de bibliografía académica. Zotero.
