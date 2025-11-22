@@ -114,7 +114,7 @@ Las versiones oficiales se etiquetan como:
 v1.0, v1.1, v2.0, etc.
 
 ## 📦 Entrega final incluye
-- Manual final en PDF
+- Manual final en Work o PDF
 - Historial completo del repositorio
 - Tablero del proyecto finalizado
-- Control de versiones documentado
+- Control de versiones documentados
