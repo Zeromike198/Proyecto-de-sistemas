@@ -81,3 +81,6 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - Trello. (s.f.). Cómo organizar equipos con tableros Kanban. Trello Help Center.
 - Universidad de Murcia. (2019). Guía para trabajos académicos universitarios. Servicio de Biblioteca.
 - Zotero. (s.f.). Manual práctico para gestión de bibliografía académica. Zotero.
+- - Notion para organizar tareas y documentos de forma centralizada.
+- OneDrive como alternativa para guardar archivos compartidos.
+- Figma para trabajar de forma colaborativa en diseños o presentaciones visuales.
