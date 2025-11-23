@@ -103,3 +103,4 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - Utilizar mensajes de commit claros y específicos para cada cambio.
 - Revisar los cambios antes de aprobar un Pull Request.
 - Mantener un registro histórico ordenado en el archivo CHANGELOG.md.
+- En conclusión, aplicar buenas prácticas de organización, comunicación, uso de herramientas colaborativas y control de versiones permite que los trabajos en equipo se desarrollen de forma más ordenada y eficiente. Además, el uso de GitHub ayuda a mantener un historial claro de los aportes de cada integrante, facilitando la revisión y mejora continua del documento. Estas prácticas fortalecen el aprendizaje y preparan a los estudiantes para entornos profesionales reales.
