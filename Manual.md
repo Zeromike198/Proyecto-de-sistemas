@@ -87,3 +87,7 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - - Crear issues para documentar tareas y asignarlas a los integrantes del equipo.
 - Utilizar etiquetas (labels) para clasificar las tareas según prioridad o categoría.
 - Revisar el historial del repositorio para entender los cambios realizados por todos.
+- - Las referencias deben estar en orden alfabético por apellido del autor.
+- Las citas para páginas web deben incluir URL y fecha de acceso si es necesario.
+- Para trabajos en grupo, asegurarse de que todos usen el mismo formato APA.
+- Evitar fuentes no confiables o sin autor.
