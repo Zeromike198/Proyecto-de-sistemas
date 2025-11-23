@@ -95,3 +95,7 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - Alinear el texto a la izquierda para evitar espacios irregulares.
 - Utilizar numeración automática para títulos y subtítulos.
 - Evitar el exceso de colores o estilos que puedan distraer.
+- - Asegurarse de que todos los integrantes revisen el documento antes de entregarlo.
+- Verificar que la portada incluya los datos completos del equipo.
+- Revisar que las imágenes tengan buena resolución.
+- Exportar el documento a PDF para evitar cambios inesperados de formato.
