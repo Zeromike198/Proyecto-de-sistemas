@@ -99,3 +99,7 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - Verificar que la portada incluya los datos completos del equipo.
 - Revisar que las imágenes tengan buena resolución.
 - Exportar el documento a PDF para evitar cambios inesperados de formato.
+- - Crear una rama específica para grandes actualizaciones del manual.
+- Utilizar mensajes de commit claros y específicos para cada cambio.
+- Revisar los cambios antes de aprobar un Pull Request.
+- Mantener un registro histórico ordenado en el archivo CHANGELOG.md.
