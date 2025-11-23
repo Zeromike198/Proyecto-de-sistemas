@@ -91,3 +91,7 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - Las citas para páginas web deben incluir URL y fecha de acceso si es necesario.
 - Para trabajos en grupo, asegurarse de que todos usen el mismo formato APA.
 - Evitar fuentes no confiables o sin autor.
+- - Mantener un interlineado de 1.5 para facilitar la lectura.
+- Alinear el texto a la izquierda para evitar espacios irregulares.
+- Utilizar numeración automática para títulos y subtítulos.
+- Evitar el exceso de colores o estilos que puedan distraer.
