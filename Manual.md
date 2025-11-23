@@ -84,3 +84,6 @@ El trabajo en equipo requiere organización, comunicación y disciplina. Aplicar
 - - Notion para organizar tareas y documentos de forma centralizada.
 - OneDrive como alternativa para guardar archivos compartidos.
 - Figma para trabajar de forma colaborativa en diseños o presentaciones visuales.
+- - Crear issues para documentar tareas y asignarlas a los integrantes del equipo.
+- Utilizar etiquetas (labels) para clasificar las tareas según prioridad o categoría.
+- Revisar el historial del repositorio para entender los cambios realizados por todos.
